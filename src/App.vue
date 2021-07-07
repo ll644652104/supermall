@@ -14,5 +14,7 @@
 </script>
 
 <style>
+  <!-- 引入base.css -->
+  @import "./assets/css/base.css";
 
 </style>
